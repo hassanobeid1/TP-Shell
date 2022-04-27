@@ -1,0 +1,28 @@
+Start testing: Nov 11 03:26 CET
+----------------------------------------------------------
+1/1 Testing: UnitShellTests
+1/1 Test: UnitShellTests
+Command: "/home/ensimag/Documents/PCSE/TP2/Shell/tests/allShellTests.rb"
+Directory: /home/ensimag/Documents/PCSE/TP2/Shell/build
+"UnitShellTests" start time: Nov 11 03:26 CET
+Output:
+----------------------------------------------------------
+Run options: --seed 25834
+
+# Running:
+
+......pipe 11 11
+....
+
+Finished in 0.244016s, 40.9810 runs/s, 69.6676 assertions/s.
+
+10 runs, 17 assertions, 0 failures, 0 errors, 0 skips
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"UnitShellTests" end time: Nov 11 03:26 CET
+"UnitShellTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 11 03:26 CET

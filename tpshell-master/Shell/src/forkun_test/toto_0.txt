@@ -1,0 +1,2 @@
+On lit la commande. Ici ce sera  grep 'toto' toto_0.txt
+stop or go (0/1)

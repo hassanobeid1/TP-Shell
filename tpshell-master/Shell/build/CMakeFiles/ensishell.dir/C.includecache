@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ensimag/Documents/PCSE/TP2/Shell/src/ensishell.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+wait.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+variante.h
+/home/ensimag/Documents/PCSE/TP2/Shell/src/variante.h
+readcmd.h
+/home/ensimag/Documents/PCSE/TP2/Shell/src/readcmd.h
+libguile.h
+-
+
+/home/ensimag/Documents/PCSE/TP2/Shell/src/readcmd.h
+variante.h
+/home/ensimag/Documents/PCSE/TP2/Shell/src/variante.h
+readline/readline.h
+-
+readline/history.h
+-
+
+/home/ensimag/Documents/PCSE/TP2/Shell/src/variante.h
+

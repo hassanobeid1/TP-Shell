@@ -1,0 +1,16 @@
+total 72
+-rwxrwxr-x 1 ensimag ensimag 17176 Oct 27 19:14 forkun
+-rw-rw-r-- 1 ensimag ensimag  3764 Oct 27 19:14 forkun.c
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_0.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_1.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_10.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_11.txt
+-rwx------ 1 ensimag ensimag     0 Oct 27 19:14 toto_12.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_2.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_3.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_4.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_5.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_6.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_7.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_8.txt
+-rwx------ 1 ensimag ensimag   831 Oct 27 19:14 toto_9.txt
